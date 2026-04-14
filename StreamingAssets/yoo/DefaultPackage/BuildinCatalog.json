@@ -1,0 +1,235 @@
+{
+    "FileVersion": "1.0.0",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2026-04-14-1195",
+    "Wrappers": [
+        {
+            "BundleGUID": "e36f0d3b925b29f98bbbb8711f832715",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_bounce.bundle"
+        },
+        {
+            "BundleGUID": "cff36759ffd9874f4c81588a9edbdefb",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_camera.bundle"
+        },
+        {
+            "BundleGUID": "2dec87d174cb80312dc71057c0297170",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_character_anims_(1).bundle"
+        },
+        {
+            "BundleGUID": "3993cd695a711a400fa6665d899e0412",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_character_anims_(10).bundle"
+        },
+        {
+            "BundleGUID": "f0d315d7b049702086c0498f8e7313c9",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_character_anims_(2).bundle"
+        },
+        {
+            "BundleGUID": "18614afcd1b0439c8e937fe07ac934ee",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_character_anims_(3).bundle"
+        },
+        {
+            "BundleGUID": "f29ac5d195b3f8d3b04c97378c24b7ef",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_character_anims_(4).bundle"
+        },
+        {
+            "BundleGUID": "5f5579ec5e718e18724ec9ce09deb241",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_character_anims_(5).bundle"
+        },
+        {
+            "BundleGUID": "6ec7e1658d160422f83e58ce46e57bc4",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_character_anims_(6).bundle"
+        },
+        {
+            "BundleGUID": "a0cd44b080fc26795e18d2dcdb4d08e0",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_character_anims_(7).bundle"
+        },
+        {
+            "BundleGUID": "cdf1c474077b28a3c9b0890b2337dbcd",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_character_anims_(8).bundle"
+        },
+        {
+            "BundleGUID": "cdf1d34fd90a1a28f79c598145f071f4",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_character_anims_(9).bundle"
+        },
+        {
+            "BundleGUID": "bea28293880d85be5c94b9d0e0d3b5c2",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_clouds.bundle"
+        },
+        {
+            "BundleGUID": "f470da829e99975bdc9152887fb000c9",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_planet.bundle"
+        },
+        {
+            "BundleGUID": "278e37b3f78596837a2456b7f07ede45",
+            "FileName": "defaultpackage_assets_gamemain_animations_100_fantasy_characters_pack_text.bundle"
+        },
+        {
+            "BundleGUID": "3bb4743af35120d6fdd1c433b9a68b00",
+            "FileName": "defaultpackage_assets_gamemain_animations_tiny_rpg_forest_hero.bundle"
+        },
+        {
+            "BundleGUID": "9d96bc667e41fac6cc627d0190f3e9ea",
+            "FileName": "defaultpackage_assets_gamemain_prefabs.bundle"
+        },
+        {
+            "BundleGUID": "a854f70ff9137d486c5b9f9e0299cbff",
+            "FileName": "defaultpackage_assets_gamemain_prefabs_100_fantasy_characters_pack.bundle"
+        },
+        {
+            "BundleGUID": "412a1d2be272ddab947e48df75986326",
+            "FileName": "defaultpackage_assets_gamemain_prefabs_2d_pixel_spaceship_-_two_small_ships_fireballs.bundle"
+        },
+        {
+            "BundleGUID": "b6f3224d363372b27b2873498e9b03ea",
+            "FileName": "defaultpackage_assets_gamemain_prefabs_enemys.bundle"
+        },
+        {
+            "BundleGUID": "82c773c4df415ad38b88b4a4ef9679a4",
+            "FileName": "defaultpackage_assets_gamemain_prefabs_gamemaps.bundle"
+        },
+        {
+            "BundleGUID": "387419a9298d89dda163a4a3f7a625c2",
+            "FileName": "defaultpackage_assets_gamemain_prefabs_heros.bundle"
+        },
+        {
+            "BundleGUID": "d36149015be8925524b7be10ad5e7793",
+            "FileName": "defaultpackage_assets_gamemain_prefabs_skills.bundle"
+        },
+        {
+            "BundleGUID": "29651024576cf09ecad233d895aa2237",
+            "FileName": "defaultpackage_assets_gamemain_prefabs_skills_aomos.bundle"
+        },
+        {
+            "BundleGUID": "f3c2b837eea4123d7f657345de6fc21f",
+            "FileName": "defaultpackage_assets_gamemain_sprites_100_fantasy_characters_pack.bundle"
+        },
+        {
+            "BundleGUID": "2cd3500419cf5ac305f9aed18dcca0af",
+            "FileName": "defaultpackage_assets_gamemain_sprites_2d_casual_ui.bundle"
+        },
+        {
+            "BundleGUID": "d5c58e1f13aa116933b4f16b3759873f",
+            "FileName": "defaultpackage_assets_gamemain_sprites_2d_pixel_spaceship_-_two_small_ships.bundle"
+        },
+        {
+            "BundleGUID": "c7c322d93e9ff3e863a0e79461f274fd",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_hero_attack-weapon_hero-attack-back.bundle"
+        },
+        {
+            "BundleGUID": "6ea94fe302dde4b06e35f54a840ec55a",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_hero_attack-weapon_hero-attack-front.bundle"
+        },
+        {
+            "BundleGUID": "7d16c174c78c5417dafd74d047d144c7",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_hero_attack-weapon_hero-attack-side.bundle"
+        },
+        {
+            "BundleGUID": "eb0ef4de96387da368af0c03861d3142",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_hero_attack_hero-attack-back.bundle"
+        },
+        {
+            "BundleGUID": "7c6f5270a8c493c2d1d21b308a4a7623",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_hero_attack_hero-attack-front.bundle"
+        },
+        {
+            "BundleGUID": "1d881cd48f4ca80c72dbae6126ff87c0",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_hero_attack_hero-attack-side.bundle"
+        },
+        {
+            "BundleGUID": "0c7eb7d558817d0d59f07013968d4a1e",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_hero_idle_hero-idle-back.bundle"
+        },
+        {
+            "BundleGUID": "3d78ffbe1a1d4e20c0e8646322eebc92",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_hero_idle_hero-idle-front.bundle"
+        },
+        {
+            "BundleGUID": "6b19d4ba33c37ba151d5689eb293c26b",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_hero_idle_hero-idle-side.bundle"
+        },
+        {
+            "BundleGUID": "b5cfeff4331245b1a9bf1bf4b9c1da8b",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_hero_walk_hero-walk-back.bundle"
+        },
+        {
+            "BundleGUID": "faf2e085f53e028ea79830f04a7dbcc1",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_hero_walk_hero-walk-front.bundle"
+        },
+        {
+            "BundleGUID": "45923390366aab210c71e9483507fc08",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_hero_walk_hero-walk-side.bundle"
+        },
+        {
+            "BundleGUID": "8ab3e5eea306d29c21d21e5ca03cad76",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_misc.bundle"
+        },
+        {
+            "BundleGUID": "58dfd37105db911635d8cd4434598b93",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_misc_coin.bundle"
+        },
+        {
+            "BundleGUID": "9570580dbde41fab2337e7a5a4850eb3",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_misc_enemy-death.bundle"
+        },
+        {
+            "BundleGUID": "a05bc7dfe9b290277e115ddba1d37626",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_misc_gem.bundle"
+        },
+        {
+            "BundleGUID": "c50dae96b09c8903c5a50d49d213a5c2",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_misc_hearts.bundle"
+        },
+        {
+            "BundleGUID": "13bf03b52110e14e6edc54fda6fe7458",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_mole_idle.bundle"
+        },
+        {
+            "BundleGUID": "8a3955e69957164ce6da300ca037d128",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_mole_walk_mole-walk-back.bundle"
+        },
+        {
+            "BundleGUID": "cccf6edf160815e8eafac2a32840d876",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_mole_walk_mole-walk-front.bundle"
+        },
+        {
+            "BundleGUID": "592c821bd578caf93558b1de9551d2d9",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_mole_walk_mole-walk-side.bundle"
+        },
+        {
+            "BundleGUID": "72e7bad7c07a85b008b852af7010a729",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_treant_idle.bundle"
+        },
+        {
+            "BundleGUID": "13363bb2fb121cf9dd4d5def2a478782",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_treant_walk_treant-walk-back.bundle"
+        },
+        {
+            "BundleGUID": "d27ecb0328a05027ca46240549cca4b6",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_treant_walk_treant-walk-front.bundle"
+        },
+        {
+            "BundleGUID": "1803ed35ea00a3762490bb4284aca64a",
+            "FileName": "defaultpackage_assets_gamemain_sprites_tiny_rpg_forest_treant_walk_treant-walk-side.bundle"
+        },
+        {
+            "BundleGUID": "b6facae3ce5952c59b8216ebc27ff969",
+            "FileName": "defaultpackage_assets_gamemain_textures_backyard_-_free.bundle"
+        },
+        {
+            "BundleGUID": "0522e0a281b0426a22501911b12d00f3",
+            "FileName": "defaultpackage_assets_gamemain_tiles.bundle"
+        },
+        {
+            "BundleGUID": "658aa683e7ec967787a45ecafd32eb3e",
+            "FileName": "defaultpackage_assets_gamemain_ui_uipanel.bundle"
+        },
+        {
+            "BundleGUID": "f5c970321a15c40ac7dc3913caab4c63",
+            "FileName": "defaultpackage_share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle"
+        },
+        {
+            "BundleGUID": "55c8c12b13fb2d84d72b6837a7e5efd7",
+            "FileName": "defaultpackage_unityshaders.bundle"
+        }
+    ]
+}
