@@ -1,7 +1,7 @@
 {
     "FileVersion": "1.0.0",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-04-14-1248",
+    "PackageVersion": "2026-04-15-727",
     "Wrappers": [
         {
             "BundleGUID": "e36f0d3b925b29f98bbbb8711f832715",
@@ -68,7 +68,7 @@
             "FileName": "defaultpackage_assets_gamemain_animations_tiny_rpg_forest_hero.bundle"
         },
         {
-            "BundleGUID": "fd72239a37eaedbb50a884234a0bf839",
+            "BundleGUID": "a80290f096258921be00cfdc03fbf129",
             "FileName": "defaultpackage_assets_gamemain_prefabs.bundle"
         },
         {
@@ -220,8 +220,12 @@
             "FileName": "defaultpackage_assets_gamemain_tiles.bundle"
         },
         {
-            "BundleGUID": "658aa683e7ec967787a45ecafd32eb3e",
+            "BundleGUID": "51a8b854310d7866bb43245fc1a7692a",
             "FileName": "defaultpackage_assets_gamemain_ui_uipanel.bundle"
+        },
+        {
+            "BundleGUID": "5ea00d23a0b19327771ba9d512829c3e",
+            "FileName": "defaultpackage_share_assets_gamelocal_fonts.bundle"
         },
         {
             "BundleGUID": "f5c970321a15c40ac7dc3913caab4c63",
