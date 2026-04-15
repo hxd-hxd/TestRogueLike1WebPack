@@ -1,7 +1,7 @@
 {
     "FileVersion": "1.0.0",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-04-14-1195",
+    "PackageVersion": "2026-04-14-1248",
     "Wrappers": [
         {
             "BundleGUID": "e36f0d3b925b29f98bbbb8711f832715",
@@ -68,7 +68,7 @@
             "FileName": "defaultpackage_assets_gamemain_animations_tiny_rpg_forest_hero.bundle"
         },
         {
-            "BundleGUID": "9d96bc667e41fac6cc627d0190f3e9ea",
+            "BundleGUID": "fd72239a37eaedbb50a884234a0bf839",
             "FileName": "defaultpackage_assets_gamemain_prefabs.bundle"
         },
         {
