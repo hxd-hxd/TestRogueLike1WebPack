@@ -1,7 +1,7 @@
 {
     "FileVersion": "1.0.0",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-04-15-727",
+    "PackageVersion": "2026-04-15-828",
     "Wrappers": [
         {
             "BundleGUID": "e36f0d3b925b29f98bbbb8711f832715",
@@ -68,7 +68,7 @@
             "FileName": "defaultpackage_assets_gamemain_animations_tiny_rpg_forest_hero.bundle"
         },
         {
-            "BundleGUID": "a80290f096258921be00cfdc03fbf129",
+            "BundleGUID": "159c08490f40bda649dde59f60b51c0e",
             "FileName": "defaultpackage_assets_gamemain_prefabs.bundle"
         },
         {
@@ -80,7 +80,7 @@
             "FileName": "defaultpackage_assets_gamemain_prefabs_2d_pixel_spaceship_-_two_small_ships_fireballs.bundle"
         },
         {
-            "BundleGUID": "b6f3224d363372b27b2873498e9b03ea",
+            "BundleGUID": "743f46a4fa8fe079f6c88142dba128e8",
             "FileName": "defaultpackage_assets_gamemain_prefabs_enemys.bundle"
         },
         {
@@ -88,7 +88,7 @@
             "FileName": "defaultpackage_assets_gamemain_prefabs_gamemaps.bundle"
         },
         {
-            "BundleGUID": "387419a9298d89dda163a4a3f7a625c2",
+            "BundleGUID": "85c19ec207ebc5d6804bad3abf6fdcd3",
             "FileName": "defaultpackage_assets_gamemain_prefabs_heros.bundle"
         },
         {
@@ -96,7 +96,7 @@
             "FileName": "defaultpackage_assets_gamemain_prefabs_skills.bundle"
         },
         {
-            "BundleGUID": "29651024576cf09ecad233d895aa2237",
+            "BundleGUID": "c585c464914d6b8f34eda2ed762445e2",
             "FileName": "defaultpackage_assets_gamemain_prefabs_skills_aomos.bundle"
         },
         {
@@ -220,7 +220,7 @@
             "FileName": "defaultpackage_assets_gamemain_tiles.bundle"
         },
         {
-            "BundleGUID": "51a8b854310d7866bb43245fc1a7692a",
+            "BundleGUID": "4e21a6f182f6be5464a95d6ffad55223",
             "FileName": "defaultpackage_assets_gamemain_ui_uipanel.bundle"
         },
         {
